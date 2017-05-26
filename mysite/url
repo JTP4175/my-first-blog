@@ -1,0 +1,2 @@
+url(r'', include('blog.urls')),
+]
